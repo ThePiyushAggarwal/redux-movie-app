@@ -16,7 +16,7 @@ function MovieListing() {
             })
           ) : (
             <div className="movies-error">
-              <h3>it is an error bitch</h3>
+              <h3>Loading...</h3>
             </div>
           )}
         </div>
@@ -31,7 +31,7 @@ function MovieListing() {
             })
           ) : (
             <div className="movies-error">
-              <h3>it is an error bitch</h3>
+              <h3>Loading...</h3>
             </div>
           )}
         </div>
