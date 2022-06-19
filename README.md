@@ -9,3 +9,6 @@ This app is made using create-react-app.
 Redux toolkit has been used as well to manage states well.
 
 CSS files are saved with .scss format.
+
+environment variable to be defined
+REACT_APP_API_KEY
